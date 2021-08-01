@@ -50,7 +50,7 @@ async def start(bot, update):
         InlineKeyboardButton('Developers', url='https://t.me/Cybermediaworks'),
         InlineKeyboardButton('Join us 🧾', url ='https://t.me/Cybermediaworks')
     ],[
-        InlineKeyboardButton('Help ⚙', url ='https://t.me/kannapi22")
+        InlineKeyboardButton('Help ⚙', callback_data")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
