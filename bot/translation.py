@@ -43,7 +43,7 @@ For More Details Click Help Button Below..
 
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> MANGALASERI NEELAKANDAN</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/kannapi22">KANNAPI</a></i></b>
 
